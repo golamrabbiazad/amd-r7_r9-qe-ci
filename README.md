@@ -1,4 +1,4 @@
-# AMD Radeon R7 370 / AMD Radeon R9 290 - Graphics Support for Hackintosh
+# AMD Radeon R7 370 / AMD Radeon R9 270 - Graphics Support for Hackintosh
 
 [kext utility]:http://cvad-mac.narod.ru/index/0-4	"repair kexts"
 [Lilu kext]: https://github.com/acidanthera/Lilu/releases
