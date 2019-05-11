@@ -4,7 +4,7 @@
 [Lilu kext]: https://github.com/acidanthera/Lilu/releases
 [Whatevergreen kext]:https://github.com/acidanthera/WhateverGreen/releases
 
-
+![AMD Radeon R7 370](https://github.com/rabbidwan/amd-r7_r9-qe-ci/blob/master/image/example.png)
 
 ### 							Instructions:
 
